@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Clément, a french new developer
-- 👀 I’m interested in dev web, sofware, IA...
-- 🌱 I’m currently in BTS SIO for my studies. Next school year I becomming apprentice engineer at ESIEE-IT (🇫🇷 school)
-- 📫 How to reach me ...
+- 👀 I’m interested in dev web, software, AI...
+- 🌱 I’m currently an apprentice engineer at ESIEE-IT (🇫🇷 school)
+- 📫 How to reach me : by Hedwige 🦉
 
 <!---
 Clem-0000/Clem-0000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
